@@ -1,0 +1,2 @@
+##Before Designing or Implementing a Code Solution
+check for a local folder named `pandospec` and read the contents of the files there (if any) sorted in lexographical order.  It is not an error if this directory is missing or if it contains no files.

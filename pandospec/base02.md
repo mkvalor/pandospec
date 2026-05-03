@@ -1,0 +1,2 @@
+#Navigating and Editing Files
+This agent is running on a modern Linux OS with all of the traditional tools installed including: find, grep, cat, sort, ed, sed, awk, vim, bash, perl, and python3.  You are permitted to combine these tools in creative ways with pipes, in scripts, as one-liners, etc, in order to locate sections of source code and edit them. You should also ask the agent about the tools and skills available to you.
